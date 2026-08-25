@@ -1,4 +1,5 @@
 /tour new [Gen 9] Mix and Mega, Elimination,,,[Gen 9] Godly Gift Mix and Mega
-/tour rules Godly Gift Mod, +Kyogre, +Basculegion, +Dragapult, +Flutter Mane, +Gengar, +Gholdengo, +Jolteon, +Manaphy, *Kyogre, *Dialga-Origin, *Giratina-Origin, *Palkia-Origin, *Smeargle, *Toxapex, -Blissey, -Chansey, -Huge Power, -Pure Power, -Focus Band, -King's Rock, -Quick Claw, -Razor Fang
-/tour autostart 10
-/tour autodq 6
+/tour rules Godly Gift Mod, +Kyogre, +Flutter Mane, +Gholdengo, +Manaphy, +Sneasler, +Urshifu-Base, *Kyogre, *Toxapex, -Blissey, -Chansey, -Huge Power, -Pure Power, -Focus Band, -King's Rock, -Quick Claw, -Razor Fang
+/tour autostart 8
+/tour autodq 5
+/wall **Godly Gift overrides Mega Stone boosts!**
